@@ -1,0 +1,9 @@
+{
+  "mcpServers": {
+    "photo-editor": {
+      "command": "python3",
+      "args": ["server/photo_editor_mcp.py"],
+      "env": {}
+    }
+  }
+}
