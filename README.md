@@ -1,6 +1,6 @@
 # Photo Editor — Editorial OS
 
-  > **[GitHub](https://github.com/EditorialOS/photo-editor)** · [Download v1.0.1](https://github.com/EditorialOS/photo-editor/raw/main/releases/photo-editor-v1.0.1.zip) · Apache 2.0
+  > **[GitHub](https://github.com/EditorialOS/photo-editor)** · [Download v1.0.1](https://github.com/EditorialOS/photo-editor/releases/download/v1.0.1/photo-editor-v1.0.1.zip) · Apache 2.0
 
   Post-shoot metadata pipeline that makes every image self-identifying. Embeds XMP/IPTC metadata directly into image files via ExifTool — products, rights, dates, and tracking IDs become part of the file itself.
 
@@ -8,7 +8,7 @@
 
   ## Install
 
-  1. **Download** [photo-editor-v1.0.1.zip](https://github.com/EditorialOS/photo-editor/raw/main/releases/photo-editor-v1.0.1.zip)
+  1. **Download** [photo-editor-v1.0.1.zip](https://github.com/EditorialOS/photo-editor/releases/download/v1.0.1/photo-editor-v1.0.1.zip)
   2. **Unzip** into your working directory
   3. **Run `/setup`** in Claude — the agent installs and verifies ExifTool and Python dependencies
 
