@@ -5,8 +5,18 @@
   "author": {
     "name": "Raj Gurbani"
   },
-  "homepage": "",
-  "repository": "",
+  "homepage": "https://github.com/EditorialOS/photo-editor",
+  "repository": "https://github.com/EditorialOS/photo-editor",
   "license": "Apache-2.0",
-  "keywords": ["photography", "metadata", "XMP", "IPTC", "ExifTool", "rights", "DAM", "photo-studio", "cowork"]
+  "keywords": [
+    "photography",
+    "metadata",
+    "XMP",
+    "IPTC",
+    "ExifTool",
+    "rights",
+    "DAM",
+    "photo-studio",
+    "cowork"
+  ]
 }
