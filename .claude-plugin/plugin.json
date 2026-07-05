@@ -1,0 +1,12 @@
+{
+  "name": "photo-editor",
+  "version": "1.0.1",
+  "description": "Post-shoot metadata pipeline. Embeds XMP/IPTC into images via ExifTool so every file is self-identifying — traceable to products, rights, dates, and shoot context. Agent-operated via Cowork, deterministic via CLI.",
+  "author": {
+    "name": "Raj Gurbani"
+  },
+  "homepage": "",
+  "repository": "",
+  "license": "Apache-2.0",
+  "keywords": ["photography", "metadata", "XMP", "IPTC", "ExifTool", "rights", "DAM", "photo-studio", "cowork"]
+}
