@@ -96,7 +96,22 @@
   `exiftool -config exiftool/editorialos.config -a -G1 -s <image>` — the look,
   SKUs, rights, and full product JSON are inside the file.
 
-  ## License
+---
+
+    ## Install
+
+    As a Claude Code plugin (run in the Claude Code terminal):
+
+    ```
+    /plugin marketplace add https://github.com/EditorialOS/editorial-os.git
+    /plugin install photo-editor@editorialos
+    ```
+
+    Or download the release zip for standalone/CLI use — see the [latest release](https://github.com/EditorialOS/photo-editor/releases).
+
+    If the README already documents zip/clone installation elsewhere, leave that documentation where it is — this section supplements it.
+
+      ## License
 
   Apache 2.0 — see [LICENSE](LICENSE).
   
